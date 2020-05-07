@@ -9,7 +9,9 @@ My epic repositorie that tells the tale of learning!!!
   <li>Your imagination</li>
   <li>D&D issued rule books</li>
 </ul>
-<tr>
-  <td>Hey</td>
-  <td>brotha</td>
-</tr>
+<table>
+  <tr>
+    <th>up</th>
+    <th>what</th>
+  </tr>
+</table>
