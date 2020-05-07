@@ -11,7 +11,8 @@ My epic repositorie that tells the tale of learning!!!
 </ul>
 <table>
   <tr>
-    <th>up</th>
-    <th>what</th>
+    <th>Keep and Open Mind</th>
+    <th>Try to make the game about yourself</th>
+    <th>Ask questions</th>
   </tr>
 </table>
