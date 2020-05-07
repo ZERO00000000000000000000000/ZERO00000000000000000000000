@@ -12,7 +12,12 @@ My epic repositorie that tells the tale of learning!!!
 <table>
   <tr>
     <th>Keep and Open Mind</th>
-    <th>Try to make the game about yourself</th>
-    <th>Ask questions</th>
+    <th>What to do</th>
+    <th>What not to do</th>
+  </tr>
+  <tr>
+    <td>Keep and Open Mind</td>
+    <td>Ask questions</td>
+    <td>No need to feel pressure for something your not comfortable doing</td>
   </tr>
 </table>
