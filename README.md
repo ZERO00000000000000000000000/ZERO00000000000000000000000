@@ -23,5 +23,5 @@ My epic repositorie that tells the tale of learning!!!
 </table>
 <h3>What is it?</h3>
 <body>
-  <p>Dungeons and Dragons is a fantasy pen and paper roleplaying games. This means that it is a cooperative story telling game, were you and a group of people are characters in a story with a setting created by someone known as the Dungeon master. In short it is a way to bond with your friends and make a fable together to remember for years to come. </p>
+  <p><i>Dungeons and Dragons</i> is a fantasy pen and paper roleplaying games. This means that it is a cooperative story telling game, were you and a group of people are characters in a story with a setting created by someone known as the Dungeon master. In short it is a way to bond with your friends and make a fable together to remember for years to come. </p>
 </body>
