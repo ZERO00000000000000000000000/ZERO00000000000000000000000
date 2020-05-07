@@ -11,8 +11,7 @@ My epic repositorie that tells the tale of learning!!!
 </ul>
 <table>
   <tr>
-    <th>Keep and Open Mind</th>
-    <th>What to do</th>
+  <th>What to do</th>
     <th>What not to do</th>
   </tr>
   <tr>
