@@ -12,7 +12,8 @@ My epic repositorie that tells the tale of learning!!!
 <table>
   <tr>
   <th>What to do</th>
-    <th>What not to do</th>
+    <th>If you get lost</th>
+    <th>Begining to feel anxiety</th>
   </tr>
   <tr>
     <td>Keep and Open Mind</td>
