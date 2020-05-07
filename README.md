@@ -5,9 +5,9 @@ My epic repositorie that tells the tale of learning!!!
 <h2>Let us begin with what you need.</h2>
 <ul>
   <li><b>A set of dice designed for the game.</b></li>
-  <li>A pencil and some paper</li>
-  <li>Your imagination</li>
-  <li>D&D issued rule books</li>
+  <li><b>A pencil and some paper</b></li>
+  <li><b>Your imagination</b></li>
+  <li><b>D&D issued rule books</b></li>
 </ul>
 <table>
   <tr>
@@ -22,5 +22,5 @@ My epic repositorie that tells the tale of learning!!!
   </tr>
 </table>
 <body>
-  <p>Dungeons and dragons is awesome</p>
+  <p>D</p>
 </body>
